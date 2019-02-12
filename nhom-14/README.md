@@ -16,20 +16,21 @@
 			<li>Trần Anh Dũng</li>
 		</ul>
 			<h2>
-			Tên sản phẩm : <i>web học tiếng anh ENGLISHFUN dành cho học sinh cấp 1</i>
+			Tên sản phẩm : <i>toeicfun</i>
 			</h2>
 			<h2>
 			Nhóm người sử dụng
 			</h2>
 			<ul>
-			<li>Học sinh cấp 1 và phụ huynh học sinh</li>
+			<li>Học sinh, sinh viên những người muốn có từ vựng cơ bản để thi toeic</li>
 			</ul>
 			<h2>
 			Mô tả tóm tắt phần mềm
 			</h2>
 			<ul>
-				<li>ứng dụng có chức năng hiển thị  từ vựng tiếng anh</li>
-				<li>ứng dụng có những trò chơi để luyện tập từ vựng đã học</li>
+				<li>ứng dụng có chức năng hiển thị  từ vựng tiếng anh toeic căn bản</li>
+				<li>ứng dụng có chế độ để luyện tập từ vựng đã học</li>
+				<li>ứng dụng có ngữ pháp cơ bản</li>
 				<li></li>
 			</ul>
 			<h2>
