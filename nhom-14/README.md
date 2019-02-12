@@ -16,7 +16,7 @@
 			<li>Trần Anh Dũng</li>
 		</ul>
 			<h2>
-			Tên sản phẩm : <i>toeicfun</i>
+			Tên sản phẩm : <i>ToeicFun</i>
 			</h2>
 			<h2>
 			Nhóm người sử dụng
