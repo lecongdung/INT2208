@@ -31,7 +31,6 @@
 				<li>ứng dụng có chức năng hiển thị  từ vựng tiếng anh toeic căn bản</li>
 				<li>ứng dụng có chế độ để luyện tập từ vựng đã học</li>
 				<li>ứng dụng có ngữ pháp cơ bản</li>
-				<li></li>
 			</ul>
 			<h2>
 			Các công nghệ có thể dùng đến
