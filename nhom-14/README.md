@@ -2,7 +2,6 @@
 <html>
     <head>
         <mate charest="utf-8" />
-        <title>Hello world!</title>
     </head>
     <body>
         <h1>Nhóm 12</h1>
